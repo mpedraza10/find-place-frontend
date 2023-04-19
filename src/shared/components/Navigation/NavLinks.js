@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 // Styles 
 import "./NavLinks.css";
 
-const NavLinks = () => {
+const NavLinks = () => {    
 	return (
         <ul className="nav-links">
             <li>
